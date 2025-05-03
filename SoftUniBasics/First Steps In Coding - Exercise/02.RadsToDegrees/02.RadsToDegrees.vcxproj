@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f4e8cc7d-42b7-4e4c-a020-9c38b8cc4e44}</ProjectGuid>
-    <RootNamespace>My02RadianstoDegrees</RootNamespace>
+    <ProjectGuid>{3f997f42-81cf-4cde-8e8d-ec4ad377a0be}</ProjectGuid>
+    <RootNamespace>My02RadsToDegrees</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="02. Radians to Degrees.cpp" />
+    <ClCompile Include="02.RadsToDegrees.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

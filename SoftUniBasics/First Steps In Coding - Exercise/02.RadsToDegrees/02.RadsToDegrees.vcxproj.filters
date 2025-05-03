@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02. Radians to Degrees.cpp">
+    <ClCompile Include="02.RadsToDegrees.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
